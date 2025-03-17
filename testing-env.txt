@@ -1,0 +1,8 @@
+REACT_APP_apiKey=AIzaSyAHaEyVFMnY3t5-Tl4m8W1WE7wbNF1g970
+REACT_APP_authDomain=techloset-testing.firebaseapp.com
+REACT_APP_projectId=techloset-testing
+REACT_APP_storageBucket=techloset-testing.appspot.com
+REACT_APP_messagingSenderId=229137457729
+REACT_APP_appId=1:229137457729:web:8193ca9fa4cdd60d935cc0
+REACT_APP_measurementId=G-4CWBFTN8M2
+REACT_APP_API=https://testing-techloset-server.onrender.com
