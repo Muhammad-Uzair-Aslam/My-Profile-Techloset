@@ -1,0 +1,13 @@
+@import "tailwindcss";
+.custom-checkbox {
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #DBDFE9; 
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+  }
+  .custom-checkbox:checked {
+    background-color: 'blue'; 
+  }
